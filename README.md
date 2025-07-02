@@ -22,7 +22,7 @@ It is deployed using **Streamlit**, making it interactive and beginner-friendly.
 
 ## 🚀 Live Demo
 
-👉 [Click Here to Try the App](#) *(Add your Streamlit Sharing or HuggingFace URL after deployment)*
+👉 [https://vamsifakenewsdetectorapp.streamlit.app/]
 
 ---
 
@@ -63,8 +63,8 @@ Note this is just the beginner app, this still needs some changes.
 This is not a fact checker.
 
 ## 🧑‍💻 Author
-## Vamsi Krishna
-💼 LinkedIn (add your link)
+Vamsi Krishna
+💼 LinkedIn (https://in.linkedin.com/in/satyavolu-surya-vamsi-krishna-6877ab24b)
 🐍 Passionate about AI, ML, and building cool apps.
 
 ## 📃 License
