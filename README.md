@@ -64,8 +64,11 @@ This is not a fact checker.
 
 ## 🧑‍💻 Author
 Vamsi Krishna
+
 #
+# About Me
 💼 LinkedIn (https://in.linkedin.com/in/satyavolu-surya-vamsi-krishna-6877ab24b)
+
 🐍 Passionate about AI, ML, and building cool apps.
 
 ## 📃 License
